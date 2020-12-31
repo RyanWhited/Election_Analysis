@@ -12,7 +12,9 @@ A Colorado Board of Elections employee gave me the following tasks to complete a
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
-Here are the results based on my analysis:
+Here are the results based on my analysis that were outputed to a text file:
+
+![Election Results](https://github.com/RyanWhited/Election_Analysis/blob/main/analysis/Election_Results_Screenshot.jpg)
 
 ## Challenge Overview
 
