@@ -12,7 +12,7 @@ A Colorado Board of Elections employee gave me the following tasks to complete a
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
 ## Summary
-Here are the results based on my analysis that were outputed to a text file:
+Here are the results based on my analysis that were outputted to a text file:
 
 ![Election Results](https://github.com/RyanWhited/Election_Analysis/blob/main/analysis/Election_Results_Screenshot.jpg)
 
@@ -23,9 +23,9 @@ The election commission requested some additional data to complete the audit:
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-This was to be added out the output in the terimnal and written to my analysis text file. 
+This was to be printed to the terminal output and written to my analysis text file. 
 
 ## Challenge Summary
-I replicated similar methods that I used in the initial assignment to this challenge. A few problems I ran into were some indentation issues, syntax errors, and had some trouble formatting the output to appear the way that I wanted it too. In the end the county turnout challenge was added successfully to the audit as seen below.
+I replicated similar methods that I used in the initial assignment to this challenge. A few problems I ran into were some minor indentation issues, syntax errors, and had some trouble formatting the output to appear the way that I wanted it too. In the end, the county turnout challenge was added successfully to the audit as seen below.
 
 ![PyPoll_Challenge](https://github.com/RyanWhited/Election_Analysis/blob/main/analysis/PyPoll_Challenge.jpg)
