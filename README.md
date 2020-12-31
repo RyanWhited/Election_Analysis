@@ -29,3 +29,6 @@ This was to be printed to the terminal output and written to my analysis text fi
 I replicated similar methods that I used in the initial assignment to this challenge. A few problems I ran into were some minor indentation issues, syntax errors, and had some trouble formatting the output to appear the way that I wanted it too. In the end, the county turnout challenge was added successfully to the audit as seen below.
 
 ![PyPoll_Challenge](https://github.com/RyanWhited/Election_Analysis/blob/main/analysis/PyPoll_Challenge.jpg)
+
+## Election Audit Summary
+This script is very versatile and can easily be used to handle other election audits in the state of Colorado. This was used for a local election, but it could be modified to handle any size election from a small discrict race to a large statewide election. 
