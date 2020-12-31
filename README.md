@@ -28,4 +28,4 @@ This was to be added out the output in the terimnal and written to my analysis t
 ## Challenge Summary
 I replicated similar methods that I used in the initial assignment to this challenge. A few problems I ran into were some indentation issues, syntax errors, and had some trouble formatting the output to appear the way that I wanted it too. In the end the county turnout challenge was added successfully to the audit as seen below.
 
-![PyPoll_Challenge]
+![PyPoll_Challenge](https://github.com/RyanWhited/Election_Analysis/blob/main/analysis/PyPoll_Challenge.jpg)
